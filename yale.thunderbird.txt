@@ -1,0 +1,33 @@
+-- 
+W. Augustine Dunn III, Ph.D
+Postdoctoral Research Associate
+Yale University
+Ecology & Evolutionary Biology
+
+http://about.me/wadunn
+wadunn83@gmail.com
+gus.dunn@yale.edu
+
+What follows is my public key for sending me SECURED email
+using a plugin like http://www.mailvelope.com/.
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: OpenPGP.js v.1.20130712
+Comment: http://openpgpjs.org
+
+xsBNBFIFl8QBCACn/Arb96LzlcetuPj2yXMqMVUmJueUJ8/alzQCpAZx5JnU
+7R+ajxOgmiV4JxMpOT/9nHJCwDudDrqgoTms1AjJVWoOZTBCpRGq9MpFr0PF
+5eue2ioAdoNZyehFYhh7oN6PvBHxMC9y2Xesiza9d4nartZhES2coBJh7FEX
+E8gOIrQ7c0cWfpapBUmcfYLQtvo1DFK7dLa1zFqFpN/losfVocHu6cEOdEkB
+T0mtedkjhOWAdjq0w3GxYkeXPcbdfGFNM9kW3k+TbF4M4vWGQVgcxgm2g3vc
+tpnUAfNqdwXm6x2jZblr/opvONLlvq4dM0fwi/rKWuGZLpWhuytvQZ1XABEB
+AAHNHUd1cyBEdW5uIDx3YWR1bm44M0BnbWFpbC5jb20+wsBcBBABAgAQBQJS
+BZfHCRAd0f5tHWjy7QAARnoIAKaaEpaqKW18GLkecTigYD51PnvLBwHqRW/b
+AjEVblBN3VzAiF/3LGXHRiq7XmDSOj1RdLHBGJeem4493YAvyr2HStxQO/fT
+gcajnfABu5/wMdpGKIrVj5l6PmwPhyq1+pQLcCVewT/wP/JWrBSV81caWMvl
+k4M20JMOYMoKWLLasYtYpvQCCy9pkDv5KYHI12bjtXQ/yKdz2ishopPmHfQk
+dHfsEKJO6Xx6JNStFvSxpFEtxXBLvI/hGgQApyqzWWvWTdceULXgQMaVOUo8
+yBU285qPR9Bc49dbZY/XUI5ERCeM1mqhdVSftfyUM78fa7pQRM2YVzYKh6Sl
+LumC4W0=
+=p2i3
+-----END PGP PUBLIC KEY BLOCK-----
